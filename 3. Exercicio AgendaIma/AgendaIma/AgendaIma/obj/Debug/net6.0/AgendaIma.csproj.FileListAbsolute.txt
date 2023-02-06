@@ -1,0 +1,15 @@
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\bin\Debug\net6.0\AgendaIma.exe
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\bin\Debug\net6.0\AgendaIma.deps.json
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\bin\Debug\net6.0\AgendaIma.runtimeconfig.json
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\bin\Debug\net6.0\AgendaIma.dll
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\bin\Debug\net6.0\AgendaIma.pdb
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\AgendaIma.csproj.AssemblyReference.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\AgendaIma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\AgendaIma.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\AgendaIma.AssemblyInfo.cs
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\AgendaIma.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\AgendaIma.dll
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\refint\AgendaIma.dll
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\AgendaIma.pdb
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\AgendaIma.genruntimeconfig.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\3. Exercicio AgendaIma\AgendaIma\AgendaIma\obj\Debug\net6.0\ref\AgendaIma.dll

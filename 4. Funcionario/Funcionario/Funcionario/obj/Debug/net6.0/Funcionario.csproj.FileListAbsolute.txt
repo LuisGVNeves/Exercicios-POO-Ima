@@ -1,0 +1,15 @@
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.exe
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.deps.json
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.runtimeconfig.json
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.dll
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\bin\Debug\net6.0\Funcionario.pdb
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.csproj.AssemblyReference.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.AssemblyInfo.cs
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.dll
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\refint\Funcionario.dll
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.pdb
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\Funcionario.genruntimeconfig.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\4. Funcionario\Funcionario\Funcionario\obj\Debug\net6.0\ref\Funcionario.dll

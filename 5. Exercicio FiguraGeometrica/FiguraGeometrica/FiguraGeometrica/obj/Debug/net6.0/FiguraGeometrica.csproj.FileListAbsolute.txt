@@ -1,0 +1,15 @@
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\bin\Debug\net6.0\FiguraGeometrica.exe
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\bin\Debug\net6.0\FiguraGeometrica.deps.json
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\bin\Debug\net6.0\FiguraGeometrica.runtimeconfig.json
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\bin\Debug\net6.0\FiguraGeometrica.dll
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\bin\Debug\net6.0\FiguraGeometrica.pdb
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\FiguraGeometrica.csproj.AssemblyReference.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\FiguraGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\FiguraGeometrica.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\FiguraGeometrica.AssemblyInfo.cs
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\FiguraGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\FiguraGeometrica.dll
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\refint\FiguraGeometrica.dll
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\FiguraGeometrica.pdb
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\FiguraGeometrica.genruntimeconfig.cache
+C:\Users\luisg\Desktop\Exercicios POO Resolvidos Imã\5. Exercicio FiguraGeometrica\FiguraGeometrica\FiguraGeometrica\obj\Debug\net6.0\ref\FiguraGeometrica.dll
